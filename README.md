@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AngieEspinosa97
 - 👀 I’m interested in Web development programming sector.
-- 🌱 I’m currently learning programming course in Universidad Nacional and MinTic Colombia.
+- 🌱 I’m currently studying programming course in Universidad Nacional and MinTic Colombia.
 - 💞️ I’m looking to collaborate on education, e-commerce, travel, housing sector projects.
 - 📫 How to reach me angie.espinosa97@gmail.com
 
